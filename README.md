@@ -1,1 +1,1 @@
-## [< Fork >](https://github.com/SL-Alpha-X-Team/Alpha-X-MD-Bot-Installer/fork)
+## [< Fork >](https://github.com/biinuwah/Alpha-X-MD-Bot-Installer.git)
